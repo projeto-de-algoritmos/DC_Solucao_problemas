@@ -25,8 +25,9 @@ Resolução de problemas de juízes eletrônicos, sendo os problemas conhecidos 
 
 
 ## Screenshots
-
+- **Closest Pair** <br>
 ![CP](https://github.com/projeto-de-algoritmos/DC_Solucao_problemas/blob/33135905ca6a7fb4754667d679c1abb159a2cbbf/Closest_Pair/enunciadoClosestPair.jpeg)
+- **The Skyline Problem** <br>
 ![TSP](https://github.com/projeto-de-algoritmos/DC_Solucao_problemas/blob/33135905ca6a7fb4754667d679c1abb159a2cbbf/The_Skyline_Problem/theskylineproblem.png)
 
 ## Apresentação 
