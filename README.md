@@ -19,15 +19,15 @@
 ## Sobre 
 Resolução de problemas de juízes eletrônicos, sendo os problemas conhecidos como: 
 
-- **** <br>
-- ****<br>
-- **** <br>
+- **Closest Pair** <br>
+- **The Skyline Problem**<br>
 
 
 
 ## Screenshots
 
-
+![CP]()
+![TSP]()
 
 ## Apresentação 
 ![Apresentação no git]()
